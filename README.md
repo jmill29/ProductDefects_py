@@ -1,0 +1,3 @@
+# Product Defects
+## Project Description
+This is a relatively simple project which demonstrates the author's ability to use Python libraries such as SciPy and NumPy to both generate simulated datasets and conduct basic data analysis on those simulated datasets. The data analysis conducted here involves working with Poisson distributions and determining the probability of having a certain number of defects over the course of a day for a certain medication. This is done using the Probability Mass Function and Cumulative Density Function available within the SciPy library. 
